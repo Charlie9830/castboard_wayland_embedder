@@ -6,7 +6,7 @@ cmake_minimum_required(VERSION 3.5.2)
 
 project(flutter_wayland)
 
-set(FLUTTER_ENGINE_SHA b9523318caa1a99ffde8adaf331212eb879cabc9)
+set(FLUTTER_ENGINE_SHA 20caf549695193a9920ca37752eca4f141bbef31)
 
 set(FLUTTER_EMBEDDER_ARTIFACTS_ZIP ${CMAKE_BINARY_DIR}/flutter_embedder_${FLUTTER_ENGINE_SHA}.zip)
 set(FLUTTER_ARTIFACTS_ZIP          ${CMAKE_BINARY_DIR}/flutter_artifact_${FLUTTER_ENGINE_SHA}.zip)
