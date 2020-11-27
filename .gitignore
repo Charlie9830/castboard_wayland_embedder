@@ -35,3 +35,6 @@ Icon?
 cmake-*/
 
 /.vscode
+
+
+/src/flutter_embedder.h
